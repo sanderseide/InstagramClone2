@@ -3,10 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/sander kerby/AndroidStudioProjects/Instagram/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/sander kerby/AndroidStudioProjects/Instagram/app/src/main/res/layout/activity_login.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/sander kerby/AndroidStudioProjects/Instagram/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/sander kerby/AndroidStudioProjects/Instagram/app/src/main/res/layout/fragment_compose.xml" value="0.18888888888888888" />
-        <entry key="..\:/Users/sander kerby/AndroidStudioProjects/Instagram/app/src/main/res/layout/fragment_posts.xml" value="0.2" />
-        <entry key="..\:/Users/sander kerby/AndroidStudioProjects/Instagram/app/src/main/res/layout/item_post.xml" value="0.2" />
+        <entry key="..\:/Users/sander kerby/AndroidStudioProjects/Instagram/app/src/main/res/layout/fragment_posts.xml" value="0.1" />
+        <entry key="..\:/Users/sander kerby/AndroidStudioProjects/Instagram/app/src/main/res/layout/item_post.xml" value="0.1" />
+        <entry key="..\:/Users/sander kerby/AndroidStudioProjects/Instagram/app/src/main/res/layout/itempost.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/sander kerby/AndroidStudioProjects/Instagram/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.22" />
       </map>
     </option>
   </component>
